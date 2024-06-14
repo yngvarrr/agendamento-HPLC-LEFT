@@ -1,0 +1,83 @@
+* {
+  font-family: "Montserrat";
+}
+
+.head_text {
+  text-align: center;
+  font-size: larger;
+}
+
+.head_text h1 {
+  color: #322f81;
+}
+
+.head_subtext {
+  text-align: center;
+  width: 700px;
+  margin: auto;
+  align-items: center;
+  font-weight: 600;
+}
+
+.head_subtext h2 {
+  font-weight: 400;
+  font-size: large;
+}
+
+.section_title {
+  text-align: center;
+  font-size: 30px;
+  color: #322f81;
+}
+
+.items_list {
+  align-items: center;
+  width: 1000px;
+  margin: auto;
+}
+
+.item_title {
+  font-weight: bold;
+  font-size: 18px;
+  color: #f99207;
+}
+
+.item_subtitle {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.list_obs {
+  text-align: center;
+  font-style: italic;
+}
+
+.list_rules {
+  align-items: center;
+  width: 1000px;
+  margin: auto;
+}
+
+.rules_item {
+  list-style-type: disc;
+  font-weight: bold;
+}
+
+.rules_obs {
+    list-style-type: none;
+}
+
+.img {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.hplc {
+  width: 400px;
+  margin: 1.5em auto;
+}
+
+a {
+    text-decoration: none;
+}
