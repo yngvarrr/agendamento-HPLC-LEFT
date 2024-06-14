@@ -61,7 +61,7 @@
 }
 
 .rules_item {
-  list-style-type: disc;
+  list-style-type: none;
   font-weight: bold;
 }
 
