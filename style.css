@@ -66,7 +66,7 @@
 }
 
 .rules_obs {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 .img {
@@ -81,7 +81,12 @@
 }
 
 a {
-    text-decoration: none;
-    color: #322f81;
-    font-weight: bold;
+  text-decoration: none;
+  color: #322f81;
+  font-weight: bold;
+}
+
+.item {
+  position: relative;
+  list-style: none;
 }
